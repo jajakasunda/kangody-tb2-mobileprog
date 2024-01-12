@@ -1,11 +1,19 @@
-# kangody-tb2-mobileprog
+# Mitoha Chips Order and Delivery
 
 Final task for Mobile Programing Subject.
+
 Author by : Ody Octora Wijaya
+
 NIM   : 41520110009
+
 Mercu Buana University
+
 Regular 2
+
 Menteng Campus
+
+![Mitohachips Order and Delivery demo](https://github.com/jajakasunda/kangody-tb2-mobileprog/assets/23520340/96954524-46e4-4633-a6b9-aa0aef272e81)
+
 
 Aplikasi ini bernama Aplikasi Mitohachips. Aplikasi ini merupakan aplikasi simulasi untuk pemesanan produk-produk dari usaha yang sedang saya jalankan (Mitoha Chips).
 
